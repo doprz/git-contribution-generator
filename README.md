@@ -143,7 +143,7 @@ Each commit appends a timestamp entry to `README.md`, creating a simple but vali
 
 ## License
 
-This project is licensed under the MIT License - see below for details.
+This project is licensed under the [MIT License](./LICENSE)
 
 ## Contributing
 
